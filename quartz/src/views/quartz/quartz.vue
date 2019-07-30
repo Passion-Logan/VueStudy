@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>hello world!</p>
+    <p>hello quartz!</p>
   </div>
 </template>
 
